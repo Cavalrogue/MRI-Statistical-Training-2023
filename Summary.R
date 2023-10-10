@@ -1,2 +1,0 @@
-Summary(x)
-Summary(y)
